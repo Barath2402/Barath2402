@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **React/Node Full-Stack Blog**
 
-- 🤝 I’m looking for help with **PERN Todo App**
+- 🤝 I’m looking for help with **MERN Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Barath2402](https://github.com/Barath2402)
 
